@@ -12,7 +12,7 @@ addEventListener("message", (e) => {
    } else {
        
       close();
-      
+       
       console.log("Worker stopped");
    }
 });
